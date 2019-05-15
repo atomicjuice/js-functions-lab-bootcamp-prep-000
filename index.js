@@ -5,5 +5,5 @@ return ('Happy holidays!')
 }
 holiday=eid
 function happyHolidaysTo(you){
-  return (`happy holidays, ${name}!`)
+  console.log (`happy holidays, ${name}!`)
 }
