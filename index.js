@@ -4,6 +4,6 @@ return ('Happy holidays!')
   
 }
 holiday=eid
-function happyHolidaysTo(you){
+function happyHolidaysTo(name){
   console.log (`happy holidays, ${name}!`)
 }
