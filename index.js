@@ -4,6 +4,6 @@ return ('Happy holidays!')
   
 }
 holiday=eid
-function happyHolidaysTo(eid,ali){
-  return (`happy ${holiday}, ${name}!`)
+function happyHolidaysTo(ali){
+  return (`happy holidays, ${name}!`)
 }
